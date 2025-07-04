@@ -1,0 +1,4 @@
+<configs file="entityclasses.xml"> <!-- 100% drop chance for all loot -->
+	<set xpath="//property[@name='LootDropProb']/@value">1</set>
+	<set xpath="//passive_effect[@name='BagSize']/@value">135</set>
+</configs>

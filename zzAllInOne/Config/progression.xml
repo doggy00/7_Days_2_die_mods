@@ -1,0 +1,3 @@
+<config file="progression.xml">
+    <set xpath="/progression/perks/perk[@name='perkPackMule']/effect_group/passive_effect[@name='CarryCapacity']/@value">10,25,45,75,135</set>
+</config>

@@ -1,0 +1,15 @@
+<configs file="items.xml">
+	<!-- fixed zombies melee range -->
+	<set xpath="/items/item[@name='meleeHandMaster']/property[@class='Action0']/property[@name='Range']/@value">1</set>
+	<set xpath="/items/item[@name='meleeHandZombieCop']/property[@class='Action0']/property[@name='Range']/@value">1</set>
+
+	<!-- changed stack size 30k -->
+	<set xpath="/items/item/property[@name='Stacknumber' and not(@value='1')]/@value">30000</set>
+	<set xpath="/items/item[@name='schematicMaster']/property[@name='Stacknumber']/@value">30000</set>
+	<set xpath="/items/item[@name='medicalBloodDrawKit']/property[@name='Stacknumber']/@value">30000</set>
+	<set xpath="/items/item[@name='smallEngine']/property[@name='Stacknumber']/@value">30000</set>
+	<set xpath="/items/item[@name='questMaster']/property[@name='Stacknumber']/@value">30000</set>
+	<set xpath="/items/item[@name='casinoCoin']/property[@name='Stacknumber']/@value">30000</set>
+	<set xpath="/items/item[@name='candle']/property[@name='Stacknumber']/@value">30000</set>
+	<set xpath="/items/item[@name='oldCash']/property[@name='Stacknumber']/@value">30000</set>
+</configs>
