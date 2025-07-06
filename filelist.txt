@@ -1,0 +1,8 @@
+Config\XUi\windows.xml
+Config\XUi_Menu\windows.xml
+Config\entityclasses.xml
+Config\items.xml
+Config\Localization.txt
+Config\progression.xml
+Config\traders.xml
+ModInfo.xml
