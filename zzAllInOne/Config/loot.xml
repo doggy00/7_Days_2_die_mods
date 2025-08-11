@@ -1,0 +1,4 @@
+<configs file="loot.xml">
+    <set xpath="/lootcontainers/lootcontainer[@size='8,6']/@size">8,10</set>
+    <set xpath="/lootcontainers/lootcontainer[@size='8,8']/@size">8,10</set>
+</configs>

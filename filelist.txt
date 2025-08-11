@@ -5,4 +5,5 @@ Config\items.xml
 Config\Localization.txt
 Config\progression.xml
 Config\traders.xml
+Config\blocks.xml
 ModInfo.xml
